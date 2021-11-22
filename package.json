@@ -1,0 +1,24 @@
+{
+  "name": "openweatherjs",
+  "version": "1.0.0",
+  "description": "practica en javascript usando la Api de OpenWeather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "keywords": [
+    "HTML",
+    "JS",
+	"tailwindcss",
+    "API",
+    "Weather"
+  ],
+  "author": "Fernando Leon",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "postcss-cli": "^9.0.2",
+    "tailwindcss": "^2.2.19",
+  },
+}
