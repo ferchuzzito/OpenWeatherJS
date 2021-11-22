@@ -4,7 +4,7 @@
   "description": "practica en javascript usando la Api de OpenWeather",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postcss": "postcss src/css/tailwind.css -o src/css/App.css"
   },
     "keywords": [
     "HTML",
